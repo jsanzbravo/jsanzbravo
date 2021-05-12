@@ -1,0 +1,6 @@
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\bin\Debug\EjemploDelegados.exe.config
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\bin\Debug\EjemploDelegados.exe
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\bin\Debug\EjemploDelegados.pdb
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\obj\Debug\EjemploDelegados.csprojResolveAssemblyReference.cache
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\obj\Debug\EjemploDelegados.exe
+C:\Users\U65566\Documents\EjemploDelegados\EjemploDelegados\obj\Debug\EjemploDelegados.pdb
